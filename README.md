@@ -1,8 +1,6 @@
 # MySQL Practice Repository
+Desarrollo de un entorno de pruebas y repositorio público en GitHub enfocado en el análisis, diseño de consultas complejas y optimización de rendimiento sobre un dataset real.
 
-Repositorio orientado a práctica de SQL y modelado de bases de datos utilizando MySQL y datasets reales.
-
-## Contenido
 - JOINs
 - Subqueries
 - CTEs
